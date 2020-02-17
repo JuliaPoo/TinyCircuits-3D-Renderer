@@ -17,7 +17,7 @@ numpy-stl
 
 ## Demo
 
-<img src="<insert>" alt="Process video result" width="400">
+<img src="https://github.com/JuliaPoo/TinyCircuits-3D-Renderer/blob/master/tinyduino_render.mp4" alt="Rendering a dog on a TinyScreen" width="400">
 
 ## Acknowledgments
 
