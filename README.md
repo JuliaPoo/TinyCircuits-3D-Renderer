@@ -17,7 +17,10 @@ numpy-stl
 
 ## Demo
 
-<img src="https://github.com/JuliaPoo/TinyCircuits-3D-Renderer/blob/master/tinyduino_render.mp4" alt="Rendering a dog on a TinyScreen" width="400">
+<video width="400" controls>
+  <source src="https://github.com/JuliaPoo/TinyCircuits-3D-Renderer/blob/master/tinyduino_render.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ## Acknowledgments
 
