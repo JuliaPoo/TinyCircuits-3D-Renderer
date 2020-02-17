@@ -27,7 +27,7 @@ numpy-stl
 
 ### Instructions
 
-Modify these variables in ```stl2triangles.py```:
+Modify these variables in ```stl2triangles.py``` according to your needs:
 
 ```
 SPRITE_STL_FILE
@@ -50,8 +50,10 @@ Open said folder in Arduino IDE, compile and upload to the TinyDuino Processor B
 
 ## Demo
 
+Running the ```stl2triangles.py``` file as is in this repository and compiling the generated code will render the below
+
 <img src="https://github.com/JuliaPoo/TinyCircuits-3D-Renderer/blob/master/tinyduino_dog_render.gif" alt="Process video result" width="400">
 
 ## Acknowledgments
 
-```DrawTriangles.ino``` is modified from the source code of Adafruit-GFX-Library/Adafruit_GFX.cpp for use in TinyCircuits
+```DrawTriangles.ino``` is modified from the source code of Adafruit-GFX-Library/Adafruit_GFX.cpp for use in TinyCircuits. ```Low_Poly_Dog.stl``` is made by [AndrewSink](https://www.thingiverse.com/thing:2797399)
