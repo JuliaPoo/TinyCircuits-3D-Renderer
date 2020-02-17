@@ -1,6 +1,6 @@
 # 3D Renderer on TinyDuino
 
-The python file will generate .ino files to render any stl file with lesser than 450 triangles with phong shading on TinyCircuits. Why? I don't know the answer to that either.
+The python file will generate .ino files to render any stl file with lesser than 450 triangles with phong shading on TinyCircuits. Why? I don't know the answer to that either. Also this is a very early project with C, like my 2nd project in C. So don't mind me completely misusing header files.
 
 ## Usage
 
